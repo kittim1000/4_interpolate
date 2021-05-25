@@ -13,14 +13,8 @@ xi = np.arange(121.0, 131.2, 0.2)
 yi = np.arange(10.0, 16.035, 0.085)
 xi,yi = np.meshgrid(xi,yi)
 
-# set mask
-#mask = (xi > 0.5) & (xi < 0.6) & (yi > 0.5) & (yi < 0.6)
-
 # interpolate
 zi = griddata((x,y),z,(xi,yi),method='linear')
-
-# mask out the field
-#zi[mask] = np.nan
 
 # plot
 fig = plt.figure()
