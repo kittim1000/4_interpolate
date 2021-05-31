@@ -29,6 +29,6 @@ Example in [3] was notably consulted.
 # References
 [1] https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.griddata.html
 
-[2] https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.LinearNDInterpolator.html#scipy.interpolate.LinearNDInterpolator
+[2] https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.LinearNDInterpolator.html
 
 [3] https://earthscience.stackexchange.com/questions/12057/how-to-interpolate-scattered-data-to-a-regular-grid-in-python 
