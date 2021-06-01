@@ -26,7 +26,7 @@ It uses triangular tessellation of input points using `qhull` (http://www.qhull.
 
 Example in [3] was notably consulted.
 
-# References
+## References
 [1] https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.griddata.html
 
 [2] https://docs.scipy.org/doc/scipy/reference/generated/scipy.interpolate.LinearNDInterpolator.html
